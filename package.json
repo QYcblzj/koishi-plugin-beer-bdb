@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-beer-bdb",
+  "description": "搜索啤酒厂（真的会有人下吗？🔍",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.16.4"
+  }
+}
